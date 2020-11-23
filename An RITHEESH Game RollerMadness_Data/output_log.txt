@@ -1,0 +1,38 @@
+Initialize engine version: 5.6.7f1 (e80cc3114ac1)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) R4 Graphics (ID=0x98e4)
+    Vendor:   ATI
+    VRAM:     1104 MB
+    Driver:   25.20.14003.2000
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.589 seconds
+Platform assembly: C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Public\Documents\Unity Projects\RollerMadness By Ritheesh\An RITHEESH Game RollerMadness\An RITHEESH Game RollerMadness_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.384900 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: eec -> priority: 1 
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.183000 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 647.
+Total: 0.603800 ms (FindLiveObjects: 0.060700 ms CreateObjectMapping: 0.033000 ms MarkObjects: 0.499500 ms  DeleteObjects: 0.009200 ms)
+
